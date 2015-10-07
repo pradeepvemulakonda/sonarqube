@@ -10,7 +10,7 @@
     },
     {
       "name": "puppetlabs/apt",
-      "version_requirement": "1.x"
+      "version_requirement": "2.x"
     },
     {
       "name": "puppetlabs/stdlib",
