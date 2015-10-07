@@ -1,3 +1,5 @@
+## This version sets the puppet-apt version to 2.x ##
+
 #sonarqube
 
 ####Table of Contents
